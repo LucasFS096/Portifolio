@@ -1,0 +1,65 @@
+{
+  "name": "Lucas Fernandes da Silva",
+  "photo": "https://media.licdn.com/dms/image/v2/C4D03AQEJWXoL-s9Opg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668092729957?e=1748476800&v=beta&t=OZLxzJBoa3XzLPQr1990ANgT4lYs-k2M9exgfRscyJk",
+  "job": "Desenvolvedor Pleno na Oxxy.Net",
+  "location": "São Paulo - SP",
+  "phone": "(11) 9 7959-7952",
+  "email": "lucasfsilva096@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "CSharp",
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
+      }
+    ],
+    "softSkills": [
+      "Facilidade de comunicação",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Arquiteto de software / S3 BANK",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    },
+    {
+      "name": "Software Engineering Lead / DIO",
+      "period": "2021 - 2022",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "CEO / Brain Machine",
+      "period": "2016 - 2021",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+    }
+  ]
+}
