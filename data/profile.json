@@ -33,10 +33,10 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Foundational C# with Microsoft / freeCodeCamp",
       "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true,
-      "certificado":""
+      "github": false,
+      "certificado":"https://www.freecodecamp.org/certification/fcc84a7e1c0-490b-46db-9968-b1ea83146f7b/foundational-c-sharp-with-microsoft"
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
