@@ -1,0 +1,55 @@
+{
+  "name": "Lucas Fernandes da Silva",
+  "photo": "https://media.licdn.com/dms/image/v2/C4D03AQEJWXoL-s9Opg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668092729957?e=1748476800&v=beta&t=OZLxzJBoa3XzLPQr1990ANgT4lYs-k2M9exgfRscyJk",
+  "job": "Desenvolvedor Pleno na Oxxy.Net",
+  "location": "São Paulo - SP",
+  "phone": "(11) 9 7959-7952",
+  "email": "lucasfsilva096@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "CSharp",
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Comprometimento"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Básico)",
+    "Espanhol (Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Foundational C# with Microsoft / freeCodeCamp",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": false,
+      "certificado":"https://www.freecodecamp.org/certification/fcc84a7e1c0-490b-46db-9968-b1ea83146f7b/foundational-c-sharp-with-microsoft"
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "github": true,
+      "certificado":""
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor de Software / Oxxy.Net",
+      "period": "2017 - até o momento",
+      "description": "É um prazer trabalhar ao lado de profissionais excepcionais e construir muitas inovações de mercado."
+    }
+  ]
+}
